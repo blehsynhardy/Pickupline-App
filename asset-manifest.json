@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pickupline-App/static/css/main.23526431.css",
+    "main.js": "/Pickupline-App/static/js/main.ade79e29.js",
+    "index.html": "/Pickupline-App/index.html",
+    "main.23526431.css.map": "/Pickupline-App/static/css/main.23526431.css.map",
+    "main.ade79e29.js.map": "/Pickupline-App/static/js/main.ade79e29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23526431.css",
+    "static/js/main.ade79e29.js"
+  ]
+}
